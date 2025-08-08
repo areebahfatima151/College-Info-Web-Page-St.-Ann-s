@@ -22,3 +22,5 @@ Features
 •Basic CSS styling for layout and visual appeal
 
 •Fully offline, no server required — just open in a browser
+
+Check this out:  https://areebahfatima151.github.io/College-Info-Web-Page-St.-Ann-s/
