@@ -1,7 +1,9 @@
 # College_Info-Web-Page-St.-Anns
 This is a static website prototype for St. Ann’s College for Women, Mehdipatnam, Hyderabad. It showcases the college’s key offerings and institutional details through a clean, HTML and CSS-based multi-page website. The project is intended for demonstration, academic, or portfolio purposes.
 
-Features
+Check this out:  https://areebahfatima151.github.io/College-Info-Web-Page-St.-Ann-s/
+
+**Features**
 
 •Homepage with navigation to all major sections
 
@@ -21,6 +23,4 @@ Features
 
 •Basic CSS styling for layout and visual appeal
 
-•Fully offline, no server required — just open in a browser
-
-Check this out:  https://areebahfatima151.github.io/College-Info-Web-Page-St.-Ann-s/
+•Fully offline, no server required — just open in a browser.
